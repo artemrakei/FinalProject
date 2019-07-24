@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<UsersDatas>
+    <UserDatas id="1">
+        <login>(!!!!!!!</login>
+        <password>123123123</password>
+    </UserDatas>
+    <UserDatas id="2">
+        <login>фывйцу</login>
+        <password>123123123</password>
+    </UserDatas>
+    <UserDatas id="3">
+        <login>(asd)</login>
+        <password>123123123</password>
+    </UserDatas>
+</UsersDatas>
