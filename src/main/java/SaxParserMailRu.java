@@ -9,16 +9,18 @@ import java.io.IOException;
 import java.util.List;
 
 public class SaxParserMailRu extends DefaultHandler {
-    private static final String USERS_DATAS_XML = "UsersDatas.xml";
+    private static final String USERS_DATAS_XML = "UserDatas.xml";
 
-    public String saxParserLogin(int numberID) throws ParserConfigurationException, SAXException, IOException {
+
+
+    public String saxParserLogin(int numberID) throws Exception {
         SAXParserFactory saxParserFactory = SAXParserFactory.newInstance();
         SAXParser saxParser = saxParserFactory.newSAXParser();
         WebElementsHandler webElementsHandler = new WebElementsHandler();
         saxParser.parse(new File(USERS_DATAS_XML), webElementsHandler);
         List<UsersDatas> webElements = webElementsHandler.getWebElements();
 
-        return webElements.get(numberID - 1).builder.getLogin();
+        return webElements.get(numberID - 1).getLogin();
     }
 
     public String saxParserPassword(int numberID) throws ParserConfigurationException, SAXException, IOException {
@@ -28,6 +30,6 @@ public class SaxParserMailRu extends DefaultHandler {
         saxParser.parse(new File(USERS_DATAS_XML), webElementsHandler);
         List<UsersDatas> webElements = webElementsHandler.getWebElements();
 
-        return webElements.get(numberID - 1).builder.getPassword();
+        return webElements.get(numberID - 1).getPassword();
     }
 }

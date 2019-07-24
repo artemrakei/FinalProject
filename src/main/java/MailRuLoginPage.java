@@ -1,3 +1,4 @@
+import com.sun.javafx.property.adapter.JavaBeanQuickAccessor;
 import org.apache.log4j.Logger;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.support.PageFactory;
@@ -10,7 +11,7 @@ import java.io.IOException;
 import java.sql.SQLException;
 
 public class MailRuLoginPage extends Xpath {
-
+    Json json = new Json();
     private static final int LINK_PRESENSE_TIMEOUT = 10;
     private static final Logger log = Logger.getLogger(MailRuLoginPage.class);
     private WebDriver driver;
@@ -43,7 +44,8 @@ public class MailRuLoginPage extends Xpath {
 
     }
 
-    public void enterLoginXML(int id) throws IOException, SAXException, ParserConfigurationException {
+    public void enterLoginXML(int id) throws Exception {
+        json.adapter();
         log.info("Enter Login");
         String login = null;
         login = saxParserMailRu.saxParserLogin(id);

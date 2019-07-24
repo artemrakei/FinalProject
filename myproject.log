@@ -1285,3 +1285,257 @@
 10:29:26,138  INFO main MailRuLoginPage:enterPassXML:55 - Enter Password
 10:29:26,259  INFO main MailRuLoginPage:clickEnterButton:63 - Click Enter after entry Login and Password
 10:29:26,366  INFO main MailRuLoginPage:logoutLinkErrorPresents:74 - Here we are not logged in
+11:38:17,826  INFO main MailRuLoginPage:<init>:24 - Initial WebDriver
+11:38:19,954  INFO main MailRuLoginPage:enterLoginXML:47 - Enter Login
+11:38:20,087  INFO main MailRuLoginPage:enterPassXML:55 - Enter Password
+11:38:20,196  INFO main MailRuLoginPage:clickEnterButton:63 - Click Enter after entry Login and Password
+11:38:20,303  INFO main MailRuLoginPage:logoutLinkErrorPresents:74 - Here we are not logged in
+11:38:23,555  INFO main MailRuLoginPage:<init>:24 - Initial WebDriver
+11:38:24,638  INFO main MailRuLoginPage:enterLoginXML:47 - Enter Login
+11:38:24,884  INFO main MailRuLoginPage:enterPassXML:55 - Enter Password
+11:38:25,002  INFO main MailRuLoginPage:clickEnterButton:63 - Click Enter after entry Login and Password
+11:38:25,269  INFO main MailRuLoginPage:logoutLinkErrorPresents:74 - Here we are not logged in
+11:38:28,902  INFO main MailRuLoginPage:<init>:24 - Initial WebDriver
+11:38:29,870  INFO main MailRuLoginPage:enterLoginXML:47 - Enter Login
+11:38:30,147  INFO main MailRuLoginPage:enterPassXML:55 - Enter Password
+11:38:30,331  INFO main MailRuLoginPage:clickEnterButton:63 - Click Enter after entry Login and Password
+11:38:30,568  INFO main MailRuLoginPage:logoutLinkErrorPresents:74 - Here we are not logged in
+11:40:05,159  INFO main MailRuLoginPage:<init>:24 - Initial WebDriver
+11:40:06,347  INFO main MailRuLoginPage:enterLoginXML:47 - Enter Login
+11:40:06,632  INFO main MailRuLoginPage:enterPassXML:55 - Enter Password
+11:40:06,769  INFO main MailRuLoginPage:clickEnterButton:63 - Click Enter after entry Login and Password
+11:40:06,924  INFO main MailRuLoginPage:logoutLinkErrorPresents:74 - Here we are not logged in
+11:40:11,308  INFO main MailRuLoginPage:<init>:24 - Initial WebDriver
+11:40:12,535  INFO main MailRuLoginPage:enterLoginXML:47 - Enter Login
+11:40:12,658  INFO main MailRuLoginPage:enterPassXML:55 - Enter Password
+11:40:12,819  INFO main MailRuLoginPage:clickEnterButton:63 - Click Enter after entry Login and Password
+11:40:13,023  INFO main MailRuLoginPage:logoutLinkErrorPresents:74 - Here we are not logged in
+11:40:16,508  INFO main MailRuLoginPage:<init>:24 - Initial WebDriver
+11:40:17,727  INFO main MailRuLoginPage:enterLoginXML:47 - Enter Login
+11:40:17,860  INFO main MailRuLoginPage:enterPassXML:55 - Enter Password
+11:40:18,048  INFO main MailRuLoginPage:clickEnterButton:63 - Click Enter after entry Login and Password
+11:40:18,178  INFO main MailRuLoginPage:logoutLinkErrorPresents:74 - Here we are not logged in
+11:41:33,477  INFO main MailRuLoginPage:<init>:24 - Initial WebDriver
+11:41:34,750  INFO main MailRuLoginPage:enterLoginXML:47 - Enter Login
+11:41:35,030  INFO main MailRuLoginPage:enterPassXML:55 - Enter Password
+11:41:35,172  INFO main MailRuLoginPage:clickEnterButton:63 - Click Enter after entry Login and Password
+11:41:35,311  INFO main MailRuLoginPage:logoutLinkErrorPresents:74 - Here we are not logged in
+11:41:39,042  INFO main MailRuLoginPage:<init>:24 - Initial WebDriver
+11:41:39,945  INFO main MailRuLoginPage:enterLoginXML:47 - Enter Login
+11:41:40,189  INFO main MailRuLoginPage:enterPassXML:55 - Enter Password
+11:41:40,376  INFO main MailRuLoginPage:clickEnterButton:63 - Click Enter after entry Login and Password
+11:41:40,512  INFO main MailRuLoginPage:logoutLinkErrorPresents:74 - Here we are not logged in
+11:41:44,239  INFO main MailRuLoginPage:<init>:24 - Initial WebDriver
+11:41:45,134  INFO main MailRuLoginPage:enterLoginXML:47 - Enter Login
+11:41:45,245  INFO main MailRuLoginPage:enterPassXML:55 - Enter Password
+11:41:45,503  INFO main MailRuLoginPage:clickEnterButton:63 - Click Enter after entry Login and Password
+11:41:45,657  INFO main MailRuLoginPage:logoutLinkErrorPresents:74 - Here we are not logged in
+12:06:08,150  INFO main MailRuLoginPage:<init>:24 - Initial WebDriver
+12:06:09,108  INFO main MailRuLoginPage:enterLoginXML:47 - Enter Login
+12:06:09,373  INFO main MailRuLoginPage:enterPassXML:55 - Enter Password
+12:06:09,491  INFO main MailRuLoginPage:clickEnterButton:63 - Click Enter after entry Login and Password
+12:06:09,609  INFO main MailRuLoginPage:logoutLinkErrorPresents:74 - Here we are not logged in
+12:06:13,781  INFO main MailRuLoginPage:<init>:24 - Initial WebDriver
+12:06:14,984  INFO main MailRuLoginPage:enterLoginXML:47 - Enter Login
+12:06:15,113  INFO main MailRuLoginPage:enterPassXML:55 - Enter Password
+12:06:15,233  INFO main MailRuLoginPage:clickEnterButton:63 - Click Enter after entry Login and Password
+12:06:15,335  INFO main MailRuLoginPage:logoutLinkErrorPresents:74 - Here we are not logged in
+12:06:19,110  INFO main MailRuLoginPage:<init>:24 - Initial WebDriver
+12:06:20,110  INFO main MailRuLoginPage:enterLoginXML:47 - Enter Login
+12:06:20,427  INFO main MailRuLoginPage:enterPassXML:55 - Enter Password
+12:06:20,591  INFO main MailRuLoginPage:clickEnterButton:63 - Click Enter after entry Login and Password
+12:06:20,902  INFO main MailRuLoginPage:logoutLinkErrorPresents:74 - Here we are not logged in
+12:12:02,151  INFO main MailRuLoginPage:<init>:24 - Initial WebDriver
+12:12:03,216  INFO main MailRuLoginPage:enterLoginXML:47 - Enter Login
+12:12:03,459  INFO main MailRuLoginPage:enterPassXML:55 - Enter Password
+12:12:03,608  INFO main MailRuLoginPage:clickEnterButton:63 - Click Enter after entry Login and Password
+12:12:03,704  INFO main MailRuLoginPage:logoutLinkErrorPresents:74 - Here we are not logged in
+12:12:07,412  INFO main MailRuLoginPage:<init>:24 - Initial WebDriver
+12:12:08,459  INFO main MailRuLoginPage:enterLoginXML:47 - Enter Login
+12:12:08,679  INFO main MailRuLoginPage:enterPassXML:55 - Enter Password
+12:12:08,875  INFO main MailRuLoginPage:clickEnterButton:63 - Click Enter after entry Login and Password
+12:12:09,027  INFO main MailRuLoginPage:logoutLinkErrorPresents:74 - Here we are not logged in
+12:12:12,326  INFO main MailRuLoginPage:<init>:24 - Initial WebDriver
+12:12:13,640  INFO main MailRuLoginPage:enterLoginXML:47 - Enter Login
+12:12:13,864  INFO main MailRuLoginPage:enterPassXML:55 - Enter Password
+12:12:14,220  INFO main MailRuLoginPage:clickEnterButton:63 - Click Enter after entry Login and Password
+12:12:19,400  INFO main MailRuLoginPage:logoutLinkErrorPresents:74 - Here we are not logged in
+12:18:58,539  INFO main MailRuLoginPage:<init>:24 - Initial WebDriver
+12:18:59,801  INFO main MailRuLoginPage:enterLoginXML:47 - Enter Login
+12:19:00,130  INFO main MailRuLoginPage:enterPassXML:55 - Enter Password
+12:19:00,282  INFO main MailRuLoginPage:clickEnterButton:63 - Click Enter after entry Login and Password
+12:19:00,430  INFO main MailRuLoginPage:logoutLinkErrorPresents:74 - Here we are not logged in
+12:19:04,116  INFO main MailRuLoginPage:<init>:24 - Initial WebDriver
+12:19:04,909  INFO main MailRuLoginPage:enterLoginXML:47 - Enter Login
+12:19:05,033  INFO main MailRuLoginPage:enterPassXML:55 - Enter Password
+12:19:05,357  INFO main MailRuLoginPage:clickEnterButton:63 - Click Enter after entry Login and Password
+12:19:05,506  INFO main MailRuLoginPage:logoutLinkErrorPresents:74 - Here we are not logged in
+12:19:08,697  INFO main MailRuLoginPage:<init>:24 - Initial WebDriver
+12:19:09,756  INFO main MailRuLoginPage:enterLoginXML:47 - Enter Login
+12:19:09,873  INFO main MailRuLoginPage:enterPassXML:55 - Enter Password
+12:19:09,980  INFO main MailRuLoginPage:clickEnterButton:63 - Click Enter after entry Login and Password
+12:19:10,074  INFO main MailRuLoginPage:logoutLinkErrorPresents:74 - Here we are not logged in
+12:23:13,325  INFO main MailRuLoginPage:<init>:24 - Initial WebDriver
+12:23:14,648  INFO main MailRuLoginPage:enterLoginXML:47 - Enter Login
+12:23:15,014  INFO main MailRuLoginPage:enterPassXML:55 - Enter Password
+12:23:15,252  INFO main MailRuLoginPage:clickEnterButton:63 - Click Enter after entry Login and Password
+12:23:15,463  INFO main MailRuLoginPage:logoutLinkErrorPresents:74 - Here we are not logged in
+12:23:19,045  INFO main MailRuLoginPage:<init>:24 - Initial WebDriver
+12:23:19,898  INFO main MailRuLoginPage:enterLoginXML:47 - Enter Login
+12:23:20,327  INFO main MailRuLoginPage:enterPassXML:55 - Enter Password
+12:23:20,559  INFO main MailRuLoginPage:clickEnterButton:63 - Click Enter after entry Login and Password
+12:23:20,699  INFO main MailRuLoginPage:logoutLinkErrorPresents:74 - Here we are not logged in
+12:23:24,331  INFO main MailRuLoginPage:<init>:24 - Initial WebDriver
+12:23:25,144  INFO main MailRuLoginPage:enterLoginXML:47 - Enter Login
+12:23:25,369  INFO main MailRuLoginPage:enterPassXML:55 - Enter Password
+12:23:25,528  INFO main MailRuLoginPage:clickEnterButton:63 - Click Enter after entry Login and Password
+12:23:25,661  INFO main MailRuLoginPage:logoutLinkErrorPresents:74 - Here we are not logged in
+12:24:55,382  INFO main MailRuLoginPage:<init>:24 - Initial WebDriver
+12:24:56,494  INFO main MailRuLoginPage:enterLoginXML:47 - Enter Login
+12:24:56,827  INFO main MailRuLoginPage:enterPassXML:55 - Enter Password
+12:24:56,984  INFO main MailRuLoginPage:clickEnterButton:63 - Click Enter after entry Login and Password
+12:24:57,083  INFO main MailRuLoginPage:logoutLinkErrorPresents:74 - Here we are not logged in
+12:25:00,590  INFO main MailRuLoginPage:<init>:24 - Initial WebDriver
+12:25:01,446  INFO main MailRuLoginPage:enterLoginXML:47 - Enter Login
+12:25:01,923  INFO main MailRuLoginPage:enterPassXML:55 - Enter Password
+12:25:02,042  INFO main MailRuLoginPage:clickEnterButton:63 - Click Enter after entry Login and Password
+12:25:02,132  INFO main MailRuLoginPage:logoutLinkErrorPresents:74 - Here we are not logged in
+12:25:06,121  INFO main MailRuLoginPage:<init>:24 - Initial WebDriver
+12:25:07,277  INFO main MailRuLoginPage:enterLoginXML:47 - Enter Login
+12:25:07,394  INFO main MailRuLoginPage:enterPassXML:55 - Enter Password
+12:25:07,512  INFO main MailRuLoginPage:clickEnterButton:63 - Click Enter after entry Login and Password
+12:25:07,599  INFO main MailRuLoginPage:logoutLinkErrorPresents:74 - Here we are not logged in
+12:27:34,672  INFO main MailRuLoginPage:<init>:24 - Initial WebDriver
+12:27:36,183  INFO main MailRuLoginPage:enterLoginXML:47 - Enter Login
+12:27:36,592  INFO main MailRuLoginPage:enterPassXML:55 - Enter Password
+12:27:36,725  INFO main MailRuLoginPage:clickEnterButton:63 - Click Enter after entry Login and Password
+12:27:36,855  INFO main MailRuLoginPage:logoutLinkErrorPresents:74 - Here we are not logged in
+12:27:40,548  INFO main MailRuLoginPage:<init>:24 - Initial WebDriver
+12:27:41,462  INFO main MailRuLoginPage:enterLoginXML:47 - Enter Login
+12:27:41,687  INFO main MailRuLoginPage:enterPassXML:55 - Enter Password
+12:27:41,841  INFO main MailRuLoginPage:clickEnterButton:63 - Click Enter after entry Login and Password
+12:27:41,954  INFO main MailRuLoginPage:logoutLinkErrorPresents:74 - Here we are not logged in
+12:27:45,461  INFO main MailRuLoginPage:<init>:24 - Initial WebDriver
+12:27:46,538  INFO main MailRuLoginPage:enterLoginXML:47 - Enter Login
+12:27:46,653  INFO main MailRuLoginPage:enterPassXML:55 - Enter Password
+12:27:46,753  INFO main MailRuLoginPage:clickEnterButton:63 - Click Enter after entry Login and Password
+12:27:46,872  INFO main MailRuLoginPage:logoutLinkErrorPresents:74 - Here we are not logged in
+12:30:00,496  INFO main MailRuLoginPage:<init>:24 - Initial WebDriver
+12:30:02,177  INFO main MailRuLoginPage:enterLoginXML:47 - Enter Login
+12:30:02,734  INFO main MailRuLoginPage:enterPassXML:55 - Enter Password
+12:30:02,953  INFO main MailRuLoginPage:clickEnterButton:63 - Click Enter after entry Login and Password
+12:30:03,090  INFO main MailRuLoginPage:logoutLinkErrorPresents:74 - Here we are not logged in
+12:30:06,646  INFO main MailRuLoginPage:<init>:24 - Initial WebDriver
+12:30:07,642  INFO main MailRuLoginPage:enterLoginXML:47 - Enter Login
+12:30:07,746  INFO main MailRuLoginPage:enterPassXML:55 - Enter Password
+12:30:08,000  INFO main MailRuLoginPage:clickEnterButton:63 - Click Enter after entry Login and Password
+12:30:08,155  INFO main MailRuLoginPage:logoutLinkErrorPresents:74 - Here we are not logged in
+12:30:11,856  INFO main MailRuLoginPage:<init>:24 - Initial WebDriver
+12:30:12,939  INFO main MailRuLoginPage:enterLoginXML:47 - Enter Login
+12:30:13,165  INFO main MailRuLoginPage:enterPassXML:55 - Enter Password
+12:30:13,318  INFO main MailRuLoginPage:clickEnterButton:63 - Click Enter after entry Login and Password
+12:30:13,448  INFO main MailRuLoginPage:logoutLinkErrorPresents:74 - Here we are not logged in
+12:34:45,465  INFO main MailRuLoginPage:<init>:24 - Initial WebDriver
+12:34:46,959  INFO main MailRuLoginPage:enterLoginXML:47 - Enter Login
+12:34:47,216  INFO main MailRuLoginPage:enterPassXML:55 - Enter Password
+12:34:47,453  INFO main MailRuLoginPage:clickEnterButton:63 - Click Enter after entry Login and Password
+12:34:47,894  INFO main MailRuLoginPage:logoutLinkErrorPresents:74 - Here we are not logged in
+12:34:52,224  INFO main MailRuLoginPage:<init>:24 - Initial WebDriver
+12:34:53,114  INFO main MailRuLoginPage:enterLoginXML:47 - Enter Login
+12:34:53,217  INFO main MailRuLoginPage:enterPassXML:55 - Enter Password
+12:34:53,473  INFO main MailRuLoginPage:clickEnterButton:63 - Click Enter after entry Login and Password
+12:34:53,610  INFO main MailRuLoginPage:logoutLinkErrorPresents:74 - Here we are not logged in
+12:34:57,181  INFO main MailRuLoginPage:<init>:24 - Initial WebDriver
+12:34:58,150  INFO main MailRuLoginPage:enterLoginXML:47 - Enter Login
+12:34:58,396  INFO main MailRuLoginPage:enterPassXML:55 - Enter Password
+12:34:58,574  INFO main MailRuLoginPage:clickEnterButton:63 - Click Enter after entry Login and Password
+12:34:58,712  INFO main MailRuLoginPage:logoutLinkErrorPresents:74 - Here we are not logged in
+13:05:45,131  INFO main MailRuLoginPage:<init>:24 - Initial WebDriver
+13:05:46,627  INFO main MailRuLoginPage:enterLoginXML:47 - Enter Login
+13:05:46,891  INFO main MailRuLoginPage:enterPassXML:55 - Enter Password
+13:05:47,024  INFO main MailRuLoginPage:clickEnterButton:63 - Click Enter after entry Login and Password
+13:05:47,145  INFO main MailRuLoginPage:logoutLinkErrorPresents:74 - Here we are not logged in
+13:05:51,551  INFO main MailRuLoginPage:<init>:24 - Initial WebDriver
+13:05:52,420  INFO main MailRuLoginPage:enterLoginXML:47 - Enter Login
+13:05:52,659  INFO main MailRuLoginPage:enterPassXML:55 - Enter Password
+13:05:52,807  INFO main MailRuLoginPage:clickEnterButton:63 - Click Enter after entry Login and Password
+13:05:53,033  INFO main MailRuLoginPage:logoutLinkErrorPresents:74 - Here we are not logged in
+13:05:56,758  INFO main MailRuLoginPage:<init>:24 - Initial WebDriver
+13:05:57,591  INFO main MailRuLoginPage:enterLoginXML:47 - Enter Login
+13:05:57,820  INFO main MailRuLoginPage:enterPassXML:55 - Enter Password
+13:05:57,957  INFO main MailRuLoginPage:clickEnterButton:63 - Click Enter after entry Login and Password
+13:05:58,083  INFO main MailRuLoginPage:logoutLinkErrorPresents:74 - Here we are not logged in
+13:07:46,537  INFO main MailRuLoginPage:<init>:24 - Initial WebDriver
+13:07:48,581  INFO main MailRuLoginPage:enterLoginXML:47 - Enter Login
+13:07:48,750  INFO main MailRuLoginPage:enterPassXML:55 - Enter Password
+13:07:48,857  INFO main MailRuLoginPage:clickEnterButton:63 - Click Enter after entry Login and Password
+13:07:48,969  INFO main MailRuLoginPage:logoutLinkErrorPresents:74 - Here we are not logged in
+13:07:53,676  INFO main MailRuLoginPage:<init>:24 - Initial WebDriver
+13:07:55,643  INFO main MailRuLoginPage:enterLoginXML:47 - Enter Login
+13:07:55,749  INFO main MailRuLoginPage:enterPassXML:55 - Enter Password
+13:07:55,858  INFO main MailRuLoginPage:clickEnterButton:63 - Click Enter after entry Login and Password
+13:07:55,965  INFO main MailRuLoginPage:logoutLinkErrorPresents:74 - Here we are not logged in
+13:08:00,087  INFO main MailRuLoginPage:<init>:24 - Initial WebDriver
+13:08:01,933  INFO main MailRuLoginPage:enterLoginXML:47 - Enter Login
+13:08:02,056  INFO main MailRuLoginPage:enterPassXML:55 - Enter Password
+13:08:02,183  INFO main MailRuLoginPage:clickEnterButton:63 - Click Enter after entry Login and Password
+13:08:02,303  INFO main MailRuLoginPage:logoutLinkErrorPresents:74 - Here we are not logged in
+16:00:43,289  INFO main MailRuLoginPage:<init>:24 - Initial WebDriver
+16:00:46,075  INFO main MailRuLoginPage:enterLoginXML:47 - Enter Login
+16:00:49,717  INFO main MailRuLoginPage:<init>:24 - Initial WebDriver
+16:01:52,953  INFO main MailRuLoginPage:<init>:24 - Initial WebDriver
+16:01:55,989  INFO main MailRuLoginPage:enterLoginXML:47 - Enter Login
+16:01:59,526  INFO main MailRuLoginPage:<init>:24 - Initial WebDriver
+16:02:01,715  INFO main MailRuLoginPage:enterLoginXML:47 - Enter Login
+16:02:05,304  INFO main MailRuLoginPage:<init>:24 - Initial WebDriver
+16:02:07,114  INFO main MailRuLoginPage:enterLoginXML:47 - Enter Login
+16:02:59,588  INFO main MailRuLoginPage:<init>:24 - Initial WebDriver
+16:03:02,901  INFO main MailRuLoginPage:enterLoginXML:47 - Enter Login
+16:08:40,431  INFO main MailRuLoginPage:<init>:24 - Initial WebDriver
+16:08:42,923  INFO main MailRuLoginPage:enterLoginXML:47 - Enter Login
+16:10:05,223  INFO main MailRuLoginPage:<init>:24 - Initial WebDriver
+16:10:08,485  INFO main MailRuLoginPage:enterLoginXML:47 - Enter Login
+16:10:08,668  INFO main MailRuLoginPage:enterPassXML:55 - Enter Password
+16:10:08,787  INFO main MailRuLoginPage:clickEnterButton:63 - Click Enter after entry Login and Password
+16:10:08,911  INFO main MailRuLoginPage:logoutLinkErrorPresents:74 - Here we are not logged in
+16:14:26,452  INFO main MailRuLoginPage:<init>:24 - Initial WebDriver
+16:14:29,545  INFO main MailRuLoginPage:enterLoginXML:47 - Enter Login
+16:14:33,229  INFO main MailRuLoginPage:<init>:24 - Initial WebDriver
+16:14:34,876  INFO main MailRuLoginPage:enterLoginXML:47 - Enter Login
+16:14:41,758  INFO main MailRuLoginPage:<init>:24 - Initial WebDriver
+16:16:30,118  INFO main MailRuLoginPage:<init>:24 - Initial WebDriver
+16:16:32,666  INFO main MailRuLoginPage:enterLoginXML:47 - Enter Login
+16:16:33,532  INFO main MailRuLoginPage:enterPassXML:55 - Enter Password
+16:16:34,029  INFO main MailRuLoginPage:clickEnterButton:63 - Click Enter after entry Login and Password
+16:16:34,182  INFO main MailRuLoginPage:logoutLinkErrorPresents:74 - Here we are not logged in
+16:16:38,085  INFO main MailRuLoginPage:<init>:24 - Initial WebDriver
+16:16:39,684  INFO main MailRuLoginPage:enterLoginXML:47 - Enter Login
+16:16:39,853  INFO main MailRuLoginPage:enterPassXML:55 - Enter Password
+16:16:40,017  INFO main MailRuLoginPage:clickEnterButton:63 - Click Enter after entry Login and Password
+16:16:40,214  INFO main MailRuLoginPage:logoutLinkErrorPresents:74 - Here we are not logged in
+16:16:44,503  INFO main MailRuLoginPage:<init>:24 - Initial WebDriver
+16:16:45,957  INFO main MailRuLoginPage:enterLoginXML:47 - Enter Login
+16:16:46,147  INFO main MailRuLoginPage:enterPassXML:55 - Enter Password
+16:16:46,319  INFO main MailRuLoginPage:clickEnterButton:63 - Click Enter after entry Login and Password
+16:16:46,416  INFO main MailRuLoginPage:logoutLinkErrorPresents:74 - Here we are not logged in
+16:19:47,351  INFO main MailRuLoginPage:<init>:25 - Initial WebDriver
+16:19:50,287  INFO main MailRuLoginPage:enterLoginXML:49 - Enter Login
+16:19:50,467  INFO main MailRuLoginPage:enterPassXML:57 - Enter Password
+16:19:50,597  INFO main MailRuLoginPage:clickEnterButton:65 - Click Enter after entry Login and Password
+16:19:50,713  INFO main MailRuLoginPage:logoutLinkErrorPresents:76 - Here we are not logged in
+16:19:54,389  INFO main MailRuLoginPage:<init>:25 - Initial WebDriver
+16:20:11,199  INFO main MailRuLoginPage:<init>:25 - Initial WebDriver
+16:20:14,111  INFO main MailRuLoginPage:enterLoginXML:49 - Enter Login
+16:20:14,389  INFO main MailRuLoginPage:enterPassXML:57 - Enter Password
+16:20:14,537  INFO main MailRuLoginPage:clickEnterButton:65 - Click Enter after entry Login and Password
+16:20:14,655  INFO main MailRuLoginPage:logoutLinkErrorPresents:76 - Here we are not logged in
+16:20:18,470  INFO main MailRuLoginPage:<init>:25 - Initial WebDriver
+16:20:19,886  INFO main MailRuLoginPage:enterLoginXML:49 - Enter Login
+16:20:19,989  INFO main MailRuLoginPage:enterPassXML:57 - Enter Password
+16:20:20,095  INFO main MailRuLoginPage:clickEnterButton:65 - Click Enter after entry Login and Password
+16:20:20,185  INFO main MailRuLoginPage:logoutLinkErrorPresents:76 - Here we are not logged in
+16:20:24,132  INFO main MailRuLoginPage:<init>:25 - Initial WebDriver
+16:20:26,216  INFO main MailRuLoginPage:enterLoginXML:49 - Enter Login
+16:20:26,334  INFO main MailRuLoginPage:enterPassXML:57 - Enter Password
+16:20:26,457  INFO main MailRuLoginPage:clickEnterButton:65 - Click Enter after entry Login and Password
+16:20:26,573  INFO main MailRuLoginPage:logoutLinkErrorPresents:76 - Here we are not logged in

@@ -6,6 +6,7 @@ import java.util.List;
 
 public class WebElementsHandler extends DefaultHandler {
     private List<UsersDatas> usersDatas;
+    private int id=0;
     boolean bLogin = false;
     boolean bPassword = false;
     private UsersDatas userDatas = new UsersDatas();
@@ -17,10 +18,9 @@ public class WebElementsHandler extends DefaultHandler {
     @Override
     public void startElement(String uri, String localName, String qName, Attributes attributes) {
 
-        if (qName.equalsIgnoreCase("UserDatas")) {
-            String id = attributes.getValue("id");
+        if (qName.equalsIgnoreCase("usersData")) {
             userDatas = new UsersDatas();
-            userDatas.builder.setId(Integer.parseInt(id));
+            userDatas.setId(id);
             if (usersDatas == null) {
                 usersDatas = new ArrayList<>();
             }
@@ -34,7 +34,7 @@ public class WebElementsHandler extends DefaultHandler {
 
     @Override
     public void endElement(String uri, String localName, String qName) {
-        if (qName.equalsIgnoreCase("UserDatas")) {
+        if (qName.equalsIgnoreCase("usersData")) {
             usersDatas.add(userDatas);
         }
     }
@@ -43,11 +43,12 @@ public class WebElementsHandler extends DefaultHandler {
     public void characters(char ch[], int start, int length) {
 
         if (bLogin) {
-            userDatas.builder.setLogin(new String(ch, start, length));
+            userDatas.setLogin(new String(ch, start, length));
             bLogin = false;
         } else if (bPassword) {
-            userDatas.builder.setPassword(new String(ch, start, length));
+            userDatas.setPassword(new String(ch, start, length));
             bPassword = false;
+            id++;
         }
     }
 }

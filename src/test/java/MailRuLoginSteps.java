@@ -4,6 +4,8 @@ import cucumber.api.java.en.Then;
 import cucumber.api.java.en.When;
 import io.qameta.allure.Attachment;
 import org.junit.Assert;
+import org.openqa.selenium.OutputType;
+import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebDriver;
 import org.xml.sax.SAXException;
 
@@ -46,7 +48,8 @@ public class MailRuLoginSteps {
     }
 
     @When("^I login as user with \"([^\"]*)\" XML$")
-    public void loginAsCorrectUserXML(String id) throws ParserConfigurationException, SAXException, IOException {
+    public void loginAsCorrectUserXML(String id) throws Exception {
+        saveScreenshotPNG(webDriver);
         mailRuLoginPage.enterLoginXML(Integer.parseInt(id));
         mailRuLoginPage.enterPassXML(Integer.parseInt(id));
         mailRuLoginPage.clickEnterButton();
@@ -162,12 +165,19 @@ public class MailRuLoginSteps {
     }
 
     @Then("I dont see marked messages")
+
     public void unmarkedMessages() {
         Assert.assertFalse(mailRuLoginPage.visibleFlag());
     }
 
+    @Attachment(value = "Page screenshot", type = "image/png")
+    public byte[] saveScreenshotPNG (WebDriver driver) {
+        return ((TakesScreenshot)driver).getScreenshotAs(OutputType.BYTES);
+    }
+
     @After
     public void afterClass() {
+        saveScreenshotPNG(webDriver);
        Singleton.quit();
     }
 }

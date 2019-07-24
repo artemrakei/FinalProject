@@ -2,6 +2,7 @@ SaxParserMailRu.class
 UsersDatas.class
 WebElementsHandler.class
 Xpath.class
+UsersDatas$Builder.class
 MailRuLoginPage.class
 Singleton.class
 Operations.class
