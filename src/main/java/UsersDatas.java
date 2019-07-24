@@ -5,25 +5,30 @@ public class UsersDatas {
     private String login;
     private String password;
 
-    public UsersDatas setId (int val) {
-        id=val;
+    public UsersDatas setId(int val) {
+        id = val;
         return this;
     }
-    public UsersDatas setLogin (String val) {
-        login=val;
+
+    public UsersDatas setLogin(String val) {
+        login = val;
         return this;
     }
-    public UsersDatas setPassword (String val) {
-        password=val;
+
+    public UsersDatas setPassword(String val) {
+        password = val;
         return this;
     }
-    public int getId () {
+
+    public int getId() {
         return id;
     }
-    public String getLogin () {
+
+    public String getLogin() {
         return login;
     }
-    public String getPassword () {
+
+    public String getPassword() {
         return password;
     }
 

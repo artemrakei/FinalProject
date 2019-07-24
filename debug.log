@@ -1,0 +1,4 @@
+[0724/122457.697:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0724/122457.699:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0724/122457.700:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0724/122457.700:ERROR:exception_snapshot_win.cc(98)] thread ID 48932 not found in process

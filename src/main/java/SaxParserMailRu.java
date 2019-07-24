@@ -12,7 +12,6 @@ public class SaxParserMailRu extends DefaultHandler {
     private static final String USERS_DATAS_XML = "UserDatas.xml";
 
 
-
     public String saxParserLogin(int numberID) throws Exception {
         SAXParserFactory saxParserFactory = SAXParserFactory.newInstance();
         SAXParser saxParser = saxParserFactory.newSAXParser();

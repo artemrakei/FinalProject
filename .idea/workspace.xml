@@ -2,147 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="22a1f922-2701-47de-b6eb-5d1950bfa912" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/UserData.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.allure/allure-2.10.0/bin/allure" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.allure/allure-2.10.0/bin/allure.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.allure/allure-2.10.0/config/allure-cucumber.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.allure/allure-2.10.0/config/allure-junit.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.allure/allure-2.10.0/config/allure.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.allure/allure-2.10.0/lib/allure-commandline-2.10.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.allure/allure-2.10.0/lib/allure-generator-2.10.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.allure/allure-2.10.0/lib/allure-model-2.9.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.allure/allure-2.10.0/lib/allure-plugin-api-2.10.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.allure/allure-2.10.0/lib/allure1-model-1.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.allure/allure-2.10.0/lib/commons-beanutils-1.9.3.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.allure/allure-2.10.0/lib/commons-codec-1.11.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.allure/allure-2.10.0/lib/commons-collections-3.2.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.allure/allure-2.10.0/lib/commons-collections4-4.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.allure/allure-2.10.0/lib/commons-io-2.6.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.allure/allure-2.10.0/lib/commons-lang3-3.8.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.allure/allure-2.10.0/lib/commons-logging-1.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.allure/allure-2.10.0/lib/commons-text-1.3.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.allure/allure-2.10.0/lib/config/jetty-logging.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.allure/allure-2.10.0/lib/config/log4j.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.allure/allure-2.10.0/lib/flexmark-0.40.16.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.allure/allure-2.10.0/lib/flexmark-util-0.40.16.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.allure/allure-2.10.0/lib/freemarker-2.3.28.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.allure/allure-2.10.0/lib/httpclient-4.5.7.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.allure/allure-2.10.0/lib/httpcore-4.4.11.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.allure/allure-2.10.0/lib/jackson-annotations-2.9.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.allure/allure-2.10.0/lib/jackson-core-2.9.8.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.allure/allure-2.10.0/lib/jackson-databind-2.9.8.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.allure/allure-2.10.0/lib/jackson-dataformat-xml-2.9.8.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.allure/allure-2.10.0/lib/jackson-dataformat-yaml-2.9.8.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.allure/allure-2.10.0/lib/jackson-module-jaxb-annotations-2.9.8.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.allure/allure-2.10.0/lib/javax.activation-api-1.2.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.allure/allure-2.10.0/lib/javax.servlet-api-3.1.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.allure/allure-2.10.0/lib/jaxb-api-2.3.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.allure/allure-2.10.0/lib/jaxb-utils-1.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.allure/allure-2.10.0/lib/jcommander-1.72.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.allure/allure-2.10.0/lib/jetty-http-9.4.14.v20181114.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.allure/allure-2.10.0/lib/jetty-io-9.4.14.v20181114.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.allure/allure-2.10.0/lib/jetty-server-9.4.14.v20181114.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.allure/allure-2.10.0/lib/jetty-util-9.4.14.v20181114.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.allure/allure-2.10.0/lib/log4j-1.2.17.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.allure/allure-2.10.0/lib/opencsv-4.5.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.allure/allure-2.10.0/lib/properties-2.0.RC5.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.allure/allure-2.10.0/lib/slf4j-api-1.7.25.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.allure/allure-2.10.0/lib/slf4j-log4j12-1.7.25.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.allure/allure-2.10.0/lib/snakeyaml-1.23.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.allure/allure-2.10.0/lib/stax2-api-3.1.4.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.allure/allure-2.10.0/lib/tika-core-1.20.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.allure/allure-2.10.0/lib/woodstox-core-5.0.3.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.allure/allure-2.10.0/plugins/README.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.allure/allure-2.10.0/plugins/behaviors-plugin/allure-plugin.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.allure/allure-2.10.0/plugins/behaviors-plugin/behaviors-plugin-2.10.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.allure/allure-2.10.0/plugins/behaviors-plugin/static/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.allure/allure-2.10.0/plugins/custom-logo-plugin/allure-plugin.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.allure/allure-2.10.0/plugins/custom-logo-plugin/custom-logo-plugin-2.10.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.allure/allure-2.10.0/plugins/custom-logo-plugin/static/custom-logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.allure/allure-2.10.0/plugins/custom-logo-plugin/static/styles.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.allure/allure-2.10.0/plugins/jira-plugin/allure-plugin.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.allure/allure-2.10.0/plugins/jira-plugin/jira-plugin-2.10.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.allure/allure-2.10.0/plugins/jira-plugin/lib/allure-jira-commons-2.10.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.allure/allure-2.10.0/plugins/jira-plugin/lib/converter-jackson-2.5.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.allure/allure-2.10.0/plugins/jira-plugin/lib/jackson-annotations-2.9.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.allure/allure-2.10.0/plugins/jira-plugin/lib/jackson-core-2.9.8.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.allure/allure-2.10.0/plugins/jira-plugin/lib/jackson-databind-2.9.8.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.allure/allure-2.10.0/plugins/jira-plugin/lib/okhttp-3.12.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.allure/allure-2.10.0/plugins/jira-plugin/lib/okio-1.15.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.allure/allure-2.10.0/plugins/jira-plugin/lib/retrofit-2.5.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.allure/allure-2.10.0/plugins/junit-xml-plugin/allure-plugin.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.allure/allure-2.10.0/plugins/junit-xml-plugin/junit-xml-plugin-2.10.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.allure/allure-2.10.0/plugins/packages-plugin/allure-plugin.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.allure/allure-2.10.0/plugins/packages-plugin/packages-plugin-2.10.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.allure/allure-2.10.0/plugins/packages-plugin/static/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.allure/allure-2.10.0/plugins/screen-diff-plugin/allure-plugin.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.allure/allure-2.10.0/plugins/screen-diff-plugin/screen-diff-plugin-2.10.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.allure/allure-2.10.0/plugins/screen-diff-plugin/static/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.allure/allure-2.10.0/plugins/screen-diff-plugin/static/styles.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.allure/allure-2.10.0/plugins/trx-plugin/allure-plugin.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.allure/allure-2.10.0/plugins/trx-plugin/trx-plugin-2.10.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.allure/allure-2.10.0/plugins/xctest-plugin/allure-plugin.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.allure/allure-2.10.0/plugins/xctest-plugin/lib/xmlwise-1.2.11.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.allure/allure-2.10.0/plugins/xctest-plugin/xctest-plugin-2.10.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.allure/allure-2.10.0/plugins/xray-plugin/allure-plugin.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.allure/allure-2.10.0/plugins/xray-plugin/lib/allure-jira-commons-2.10.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.allure/allure-2.10.0/plugins/xray-plugin/lib/converter-jackson-2.5.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.allure/allure-2.10.0/plugins/xray-plugin/lib/jackson-annotations-2.9.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.allure/allure-2.10.0/plugins/xray-plugin/lib/jackson-core-2.9.8.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.allure/allure-2.10.0/plugins/xray-plugin/lib/jackson-databind-2.9.8.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.allure/allure-2.10.0/plugins/xray-plugin/lib/okhttp-3.12.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.allure/allure-2.10.0/plugins/xray-plugin/lib/okio-1.15.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.allure/allure-2.10.0/plugins/xray-plugin/lib/retrofit-2.5.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.allure/allure-2.10.0/plugins/xray-plugin/xray-plugin-2.10.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.allure/allure-2.10.0/plugins/xunit-xml-plugin/allure-plugin.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.allure/allure-2.10.0/plugins/xunit-xml-plugin/xunit-xml-plugin-2.10.0.jar" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/UserData.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UserDatas.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/debug.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/features/ApiVk.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simple_bean.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ApiVK.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Json.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ApiVkTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UsersDatas.xml" beforeDir="false" afterPath="$PROJECT_DIR$/UsersDatas.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/33d1f5fe-e49a-4203-a6d5-e02ca95a1420-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/409f3959-29ba-4916-948c-307b3b97a183-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/86eda18c-b97b-4adb-805c-9de78b1e2531-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/fa41c317-7cb1-4e92-af27-3a752aacacda-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/features/Login.feature" beforeDir="false" afterPath="$PROJECT_DIR$/features/Login.feature" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/myproject.log" beforeDir="false" afterPath="$PROJECT_DIR$/myproject.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/MailRuLoginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/MailRuLoginPage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/SaxParserMailRu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SaxParserMailRu.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/UsersDatas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/UsersDatas.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/WebElementsHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/WebElementsHandler.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/LoginTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/LoginTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/MailRuLoginSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/MailRuLoginSteps.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/MailRuLoginPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/MailRuLoginPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Operations.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Operations.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/SaxParserMailRu.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SaxParserMailRu.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Singleton.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Singleton.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/UsersDatas$Builder.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/UsersDatas.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/UsersDatas.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/WebElementsHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/WebElementsHandler.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Xpath.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Xpath.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/allure-maven.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/css/maven-base.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/css/maven-theme.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/css/print.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/css/site.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/images/collapsed.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/images/expanded.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/images/external.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/images/icon_error_sml.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/images/icon_info_sml.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/images/icon_success_sml.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/images/icon_warning_sml.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/images/logos/build-by-maven-black.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/images/logos/build-by-maven-white.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/images/logos/maven-feather.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/images/newwindow.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/project-reports.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/LoginTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/LoginTest.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-LoginTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-LoginTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/LoginTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/LoginTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/META-INF/FinalProject.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/MailRuLoginSteps.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -190,8 +69,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/MailRuLoginSteps.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="349">
-              <caret line="52" column="28" lean-forward="true" selection-start-line="52" selection-start-column="28" selection-end-line="52" selection-end-column="28" />
+            <state relative-caret-position="367">
+              <caret line="33" column="44" selection-start-line="33" selection-start-column="11" selection-end-line="33" selection-end-column="44" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -200,43 +79,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/LoginTest.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ApiVK.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/UserData.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Json.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="21" column="4" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="4" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/SaxParserMailRu.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
+            <state relative-caret-position="486">
+              <caret line="59" column="5" selection-start-line="59" selection-start-column="5" selection-end-line="59" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -245,32 +91,90 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/MailRuLoginPage.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/ApiVkTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="248">
-              <caret line="47" column="23" selection-start-line="47" selection-start-column="23" selection-end-line="47" selection-end-column="23" />
+            <state relative-caret-position="357">
+              <caret line="21" column="53" selection-start-line="21" selection-start-column="53" selection-end-line="21" selection-end-column="53" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#5661#5662#0" expanded="true" />
-                <element signature="e#5708#5709#0" expanded="true" />
+                <element signature="e#109#110#0" expanded="true" />
+                <element signature="e#143#144#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/UsersDatas.java">
+        <entry file="file://$PROJECT_DIR$/features/ApiVk.feature">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="13" selection-start-column="13" selection-end-column="13" />
+            <state relative-caret-position="51">
+              <caret line="3" column="28" lean-forward="true" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="407">
+              <caret line="104" selection-start-line="104" selection-end-line="104" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../Занятие 13/Разбор ДЗ/Занятие_13/src/main/java/VkMetods.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="59" column="5" lean-forward="true" selection-start-line="55" selection-start-column="4" selection-end-line="59" selection-end-column="5" />
               <folding>
-                <element signature="e#560#561#0" expanded="true" />
-                <element signature="e#601#602#0" expanded="true" />
-                <element signature="e#641#642#0" expanded="true" />
-                <element signature="e#685#686#0" expanded="true" />
-                <element signature="e#728#729#0" expanded="true" />
-                <element signature="e#775#776#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../Занятие 13/Разбор ДЗ/Занятие_13/src/test/java/VkTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="593">
+              <caret line="56" selection-end-line="56" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/MailRuLoginPage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="13" column="55" selection-start-line="13" selection-start-column="55" selection-end-line="13" selection-end-column="55" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/features/Login.feature">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="26" lean-forward="true" selection-end-line="5" selection-end-column="26" />
+              <folding>
+                <marker date="1563975354596" expanded="true" signature="996:1167" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/features/Spam.feature">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="41" selection-start-line="2" selection-start-column="3" selection-end-line="6" selection-end-column="41" />
             </state>
           </provider>
         </entry>
@@ -294,9 +198,12 @@
       <find>UsersDatas</find>
       <find>UserDatas</find>
       <find>USERS_DATAS_XML</find>
+      <find>exe</find>
+      <find>vkMetods</find>
     </findStrings>
     <replaceStrings>
       <replace>xpath</replace>
+      <replace>apiVK</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -309,30 +216,33 @@
         <option value="$PROJECT_DIR$/src/main/java/MailRuMovingInSpamSteps.java" />
         <option value="$PROJECT_DIR$/src/main/resources/log4j.properties" />
         <option value="$PROJECT_DIR$/src/main/java/WebElementHandler.java" />
-        <option value="$PROJECT_DIR$/features/Spam.feature" />
         <option value="$PROJECT_DIR$/src/main/java/Xpath.java" />
         <option value="$PROJECT_DIR$/src/main/java/Builder.java" />
         <option value="$PROJECT_DIR$/src/test/java/MailRuMovingInSpamSteps.java" />
         <option value="$PROJECT_DIR$/src/main/java/Singleton.java" />
-        <option value="$PROJECT_DIR$/features/Login.feature" />
         <option value="$PROJECT_DIR$/src/main/java/Foo.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/simple_bean.xml" />
         <option value="$PROJECT_DIR$/src/main/java/UsersDate.java" />
         <option value="$PROJECT_DIR$/UsersDatas.xml" />
         <option value="$PROJECT_DIR$/src/main/java/SimpleBean.java" />
         <option value="$PROJECT_DIR$/src/main/java/DataRequest.java" />
         <option value="$PROJECT_DIR$/UsersDate.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/UsersDatas.java" />
         <option value="$PROJECT_DIR$/UserDatas.xml" />
         <option value="$PROJECT_DIR$/src/main/java/UserData.java" />
         <option value="$PROJECT_DIR$/src/main/java/WebElementsHandler.java" />
         <option value="$PROJECT_DIR$/UserData.json" />
-        <option value="$PROJECT_DIR$/src/test/java/MailRuLoginSteps.java" />
         <option value="$PROJECT_DIR$/src/main/java/Json.java" />
-        <option value="$PROJECT_DIR$/src/main/java/SaxParserMailRu.java" />
         <option value="$PROJECT_DIR$/src/test/java/LoginTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/SaxParserMailRu.java" />
+        <option value="$PROJECT_DIR$/src/main/java/UsersDatas.java" />
+        <option value="$PROJECT_DIR$/features/Spam.feature" />
+        <option value="$PROJECT_DIR$/features/Login.feature" />
         <option value="$PROJECT_DIR$/src/main/java/MailRuLoginPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/MailRuLoginSteps.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/features/ApiVk.feature" />
+        <option value="$PROJECT_DIR$/src/main/java/ApiVK.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ApiVkTest.java" />
       </list>
     </option>
   </component>
@@ -470,14 +380,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.LoginTest">
-    <configuration name="Foo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Foo" />
-      <module name="FinalProject" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.ApiVkTest.editMessageTest">
     <configuration name="Json" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Json" />
       <module name="FinalProject" />
@@ -492,6 +395,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ApiVkTest.editMessageTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="FinalProject" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ApiVkTest" />
+      <option name="METHOD_NAME" value="editMessageTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ApiVkTest.postMessageTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="FinalProject" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ApiVkTest" />
+      <option name="METHOD_NAME" value="postMessageTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="LoginTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="FinalProject" />
       <option name="PACKAGE_NAME" value="" />
@@ -501,24 +424,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LoginTest" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="FinalProject" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="LoginTest" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.ApiVkTest.editMessageTest" />
+        <item itemvalue="JUnit.ApiVkTest.postMessageTest" />
         <item itemvalue="JUnit.LoginTest" />
         <item itemvalue="Application.Json" />
         <item itemvalue="Application.SimpleBean" />
-        <item itemvalue="Application.Foo" />
-        <item itemvalue="TestNG.LoginTest" />
       </list>
     </recent_temporary>
   </component>
@@ -538,42 +450,50 @@
       <workItem from="1563910304810" duration="154000" />
       <workItem from="1563914165354" duration="15064000" />
     </task>
+    <task id="LOCAL-00001" summary="new project">
+      <created>1563974471390</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1563974471390</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="LoginTest - 2019.07.24 at 10h 29m 28s.xml">
+    <history-entry file="LoginTest - 2019.07.24 at 16h 36m 27s.xml">
       <configuration name="LoginTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LoginTest - 2019.07.24 at 11h 04m 04s.xml">
+    <history-entry file="LoginTest - 2019.07.24 at 16h 37m 10s.xml">
       <configuration name="LoginTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LoginTest - 2019.07.24 at 11h 38m 32s.xml">
+    <history-entry file="LoginTest - 2019.07.24 at 16h 44m 38s.xml">
       <configuration name="LoginTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LoginTest - 2019.07.24 at 16h 00m 50s.xml">
+    <history-entry file="LoginTest - 2019.07.24 at 16h 45m 38s.xml">
       <configuration name="LoginTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LoginTest - 2019.07.24 at 16h 02m 08s.xml">
+    <history-entry file="LoginTest - 2019.07.24 at 16h 47m 03s.xml">
       <configuration name="LoginTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LoginTest - 2019.07.24 at 16h 03m 23s.xml">
+    <history-entry file="LoginTest - 2019.07.24 at 16h 49m 24s.xml">
       <configuration name="LoginTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LoginTest - 2019.07.24 at 16h 09m 29s.xml">
+    <history-entry file="LoginTest - 2019.07.24 at 16h 50m 39s.xml">
       <configuration name="LoginTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LoginTest - 2019.07.24 at 16h 10m 18s.xml">
-      <configuration name="LoginTest" configurationId="JUnit" />
+    <history-entry file="ApiVkTest_postMessageTest - 2019.07.24 at 17h 39m 35s.xml">
+      <configuration name="ApiVkTest.postMessageTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LoginTest - 2019.07.24 at 16h 14m 43s.xml">
-      <configuration name="LoginTest" configurationId="JUnit" />
+    <history-entry file="ApiVkTest_postMessageTest - 2019.07.24 at 17h 40m 15s.xml">
+      <configuration name="ApiVkTest.postMessageTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LoginTest - 2019.07.24 at 16h 16m 48s.xml">
-      <configuration name="LoginTest" configurationId="JUnit" />
+    <history-entry file="ApiVkTest_postMessageTest - 2019.07.24 at 17h 43m 15s.xml">
+      <configuration name="ApiVkTest.postMessageTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="58501000" />
+    <option name="totallyTimeSpent" value="63563000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -588,16 +508,17 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16257995" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16257995" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Capture Tool" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Favorites" order="5" side_tool="true" />
       <window_info id="Image Layers" order="6" />
+      <window_info anchor="bottom" id="Duplicates" weight="0.32936078" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946696" visible="true" weight="0.19501625" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49946696" visible="true" weight="0.19501625" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3391116" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -695,12 +616,6 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/SaxParserMailRu.java</url>
-          <line>20</line>
-          <properties />
-          <option name="timeStamp" value="13" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/WebElementsHandler.java</url>
           <line>20</line>
           <properties />
@@ -710,34 +625,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$MAVEN_REPOSITORY$/SWS/Final_Project/1.0-SNAPSHOT/Final_Project-1.0-SNAPSHOT.pom">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="53" column="36" selection-start-line="53" selection-start-column="36" selection-end-line="53" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Operations.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-225">
-          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.allure/allure-2.10.0/bin/allure.bat">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.allure/allure-2.10.0/bin/allure">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/features/Spam.feature">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="41" lean-forward="true" selection-start-line="2" selection-start-column="2" selection-end-line="6" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Builder.java" />
     <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12-sources.jar!/org/junit/runner/JUnitCore.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="264">
@@ -917,13 +804,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="88" column="21" selection-start-line="88" selection-start-column="21" selection-end-line="88" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/simple_bean.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
@@ -999,16 +879,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/features/Login.feature">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="30" column="33" selection-start-line="30" selection-start-column="33" selection-end-line="30" selection-end-column="33" />
-          <folding>
-            <marker date="1563952700445" expanded="true" signature="991:1162" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/xerces/xercesImpl/2.11.0/xercesImpl-2.11.0.jar!/org/apache/xerces/parsers/AbstractSAXParser.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
@@ -1047,13 +917,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/UserData.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/UserData.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
@@ -1064,6 +927,13 @@
             <element signature="e#279#280#0" expanded="true" />
             <element signature="e#320#321#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UserData.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
         </state>
       </provider>
     </entry>
@@ -1082,16 +952,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Json.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="4" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="4" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/SaxParserMailRu.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
@@ -1102,34 +962,115 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/LoginTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Json.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+        <state relative-caret-position="357">
+          <caret line="21" column="4" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="4" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/MailRuLoginSteps.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/LoginTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="349">
-          <caret line="52" column="28" lean-forward="true" selection-start-line="52" selection-start-column="28" selection-end-line="52" selection-end-column="28" />
+        <state relative-caret-position="119">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/features/Spam.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="41" selection-start-line="2" selection-start-column="3" selection-end-line="6" selection-end-column="41" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/MailRuLoginPage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="248">
-          <caret line="47" column="23" selection-start-line="47" selection-start-column="23" selection-end-line="47" selection-end-column="23" />
+        <state relative-caret-position="17">
+          <caret line="13" column="55" selection-start-line="13" selection-start-column="55" selection-end-line="13" selection-end-column="55" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#5661#5662#0" expanded="true" />
-            <element signature="e#5708#5709#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="407">
+          <caret line="104" selection-start-line="104" selection-end-line="104" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/features/Login.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="26" lean-forward="true" selection-end-line="5" selection-end-column="26" />
+          <folding>
+            <marker date="1563975354596" expanded="true" signature="996:1167" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/features/ApiVk.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="28" lean-forward="true" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/MailRuLoginSteps.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="367">
+          <caret line="33" column="44" selection-start-line="33" selection-start-column="11" selection-end-line="33" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../Занятие 13/Разбор ДЗ/Занятие_13/src/test/java/VkTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="593">
+          <caret line="56" selection-end-line="56" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../Занятие 13/Разбор ДЗ/Занятие_13/src/main/java/VkMetods.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="59" column="5" lean-forward="true" selection-start-line="55" selection-start-column="4" selection-end-line="59" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ApiVK.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="59" column="5" selection-start-line="59" selection-start-column="5" selection-end-line="59" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ApiVkTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="53" selection-start-line="21" selection-start-column="53" selection-end-line="21" selection-end-column="53" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#109#110#0" expanded="true" />
+            <element signature="e#143#144#0" expanded="true" />
           </folding>
         </state>
       </provider>

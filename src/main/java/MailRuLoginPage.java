@@ -1,4 +1,3 @@
-import com.sun.javafx.property.adapter.JavaBeanQuickAccessor;
 import org.apache.log4j.Logger;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.support.PageFactory;
@@ -12,7 +11,7 @@ import java.sql.SQLException;
 
 public class MailRuLoginPage extends Xpath {
     Json json = new Json();
-    private static final int LINK_PRESENSE_TIMEOUT = 10;
+    private static final int LINK_PRESENSE_TIMEOUT = 30;
     private static final Logger log = Logger.getLogger(MailRuLoginPage.class);
     private WebDriver driver;
     private int numberIncomingLetters;
@@ -211,7 +210,7 @@ public class MailRuLoginPage extends Xpath {
         unmarkedFlag.click();
     }
 
-    public void  movingInArchive () throws InterruptedException {
+    public void movingInArchive() throws InterruptedException {
         driver.switchTo().activeElement().sendKeys("e");
         Thread.sleep(2000);
     }
@@ -219,9 +218,6 @@ public class MailRuLoginPage extends Xpath {
 //        if (messageInArchive.isDisplayed()) {
 //        messageInArchive.click();}
 //    }
-
-
-
 
 
 }

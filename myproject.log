@@ -1539,3 +1539,21 @@
 16:20:26,334  INFO main MailRuLoginPage:enterPassXML:57 - Enter Password
 16:20:26,457  INFO main MailRuLoginPage:clickEnterButton:65 - Click Enter after entry Login and Password
 16:20:26,573  INFO main MailRuLoginPage:logoutLinkErrorPresents:76 - Here we are not logged in
+16:34:26,802  INFO main MailRuLoginPage:<init>:24 - Initial WebDriver
+16:34:32,140  INFO main MailRuLoginPage:enterLogin:31 - Enter Login
+16:34:32,297  INFO main MailRuLoginPage:enterPass:38 - Enter Password
+16:34:41,627  INFO main MailRuLoginPage:clickEnterButton:64 - Click Enter after entry Login and Password
+16:34:42,487  INFO main MailRuLoginPage:choiceLetter:81 - Choice three mails
+16:34:46,364  INFO main MailRuLoginPage:movingInSpam:99 - Moving mails in Spam
+16:34:46,479  INFO main MailRuLoginPage:decreaseLetters:107 - Here we see decrease incoming mails
+16:36:05,128  INFO main MailRuLoginPage:<init>:24 - Initial WebDriver
+16:36:51,343  INFO main MailRuLoginPage:<init>:24 - Initial WebDriver
+16:44:17,274  INFO main MailRuLoginPage:<init>:24 - Initial WebDriver
+16:45:08,952  INFO main MailRuLoginPage:<init>:24 - Initial WebDriver
+16:46:42,604  INFO main MailRuLoginPage:<init>:24 - Initial WebDriver
+16:49:03,450  INFO main MailRuLoginPage:<init>:24 - Initial WebDriver
+16:50:19,117  INFO main MailRuLoginPage:<init>:24 - Initial WebDriver
+16:50:32,168  INFO main MailRuLoginPage:enterLogin:31 - Enter Login
+16:50:32,332  INFO main MailRuLoginPage:enterPass:38 - Enter Password
+16:50:32,440  INFO main MailRuLoginPage:clickEnterButton:64 - Click Enter after entry Login and Password
+16:50:32,533  INFO main MailRuLoginPage:logoutLinkPresents:69 - Here we see 'Logout Link'

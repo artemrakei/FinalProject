@@ -1,4 +1,7 @@
+import com.applitools.eyes.TestResults;
+import com.applitools.eyes.selenium.Eyes;
 import cucumber.api.java.After;
+import cucumber.api.java.Before;
 import cucumber.api.java.en.Given;
 import cucumber.api.java.en.Then;
 import cucumber.api.java.en.When;
@@ -7,13 +10,12 @@ import org.junit.Assert;
 import org.openqa.selenium.OutputType;
 import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebDriver;
-import org.xml.sax.SAXException;
 
-import javax.xml.parsers.ParserConfigurationException;
-import java.io.IOException;
 import java.sql.SQLException;
 
 public class MailRuLoginSteps {
+    private Eyes eyes;
+    private static String API_KEY = "RFy678rDfd7Jtb0LlJJsxgoyohmMAL4Upgu0L7mcKN4110";
     private static final String MAIN_URL = "http://mail.ru";
     private MailRuLoginPage mailRuLoginPage;
     private WebDriver webDriver;
@@ -23,16 +25,28 @@ public class MailRuLoginSteps {
         mailRuLoginPage = new MailRuLoginPage(webDriver);
     }
 
+    @Before
+    public void beforeClass () {
+        eyes = new Eyes();
+        eyes.setApiKey(API_KEY);
+    }
+
     @Given("^I am on main application page$")
     public void loadMainPage() {
+        eyes.open(webDriver, "MAIL", "MailSendTest");
         webDriver.get(MAIN_URL);
+        eyes.checkWindow("Mailbox");
+        eyes.close();
+
     }
+
     @Given("^I am on main Mail.ru page and login as correct user$")
     public void loadMainPage1() throws SQLException {
         webDriver.get(MAIN_URL);
         mailRuLoginPage.enterLogin(1);
         mailRuLoginPage.enterPass(1);
         mailRuLoginPage.clickEnterButton();
+
     }
 
     @Given("^I am moving in spam$")
@@ -171,13 +185,14 @@ public class MailRuLoginSteps {
     }
 
     @Attachment(value = "Page screenshot", type = "image/png")
-    public byte[] saveScreenshotPNG (WebDriver driver) {
-        return ((TakesScreenshot)driver).getScreenshotAs(OutputType.BYTES);
+    public byte[] saveScreenshotPNG(WebDriver driver) {
+        return ((TakesScreenshot) driver).getScreenshotAs(OutputType.BYTES);
     }
 
     @After
     public void afterClass() {
+        eyes.abortIfNotClosed();
         saveScreenshotPNG(webDriver);
-       Singleton.quit();
+        Singleton.quit();
     }
 }
